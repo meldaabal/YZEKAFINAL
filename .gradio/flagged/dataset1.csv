@@ -1,0 +1,10 @@
+Yaş,BMI (Vücut Kitle İndeksi),Çocuk Sayısı,Cinsiyet,Sigara Kullanıyor mu?,Bölge,output,timestamp
+22,100,2,female,yes,southeast,"❌ Hata: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.",2025-06-20 12:51:00.290595
+22,50,0,female,no,northeast,"❌ Hata oluştu:
+
+```The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+```",2025-06-20 12:55:14.673712
+0,0,0,,,northeast,,2025-06-20 13:03:55.148445
+22,5,1,female,no,northeast,💰 Tahmini Sigorta Maliyeti: **6464 TL**,2025-06-20 13:08:07.898248
